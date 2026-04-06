@@ -1,6 +1,3 @@
-Perfect—that actually makes your project **more realistic and practical** 👍
-I’ll refine the README to reflect that your data is fetched dynamically using `!wget`, so it looks clean and professional (not incomplete).
-
 ---
 
 # 📘 GPT Model Implementation using Jupyter Notebook
