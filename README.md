@@ -46,7 +46,7 @@ This project demonstrates the implementation of a **GPT (Generative Pre-trained 
 The dataset is **fetched dynamically داخل the notebook** using:
 
 ```bash
-!wget <dataset-url>
+!wget <[dataset-url](https://raw.githubusercontent.com/karpathy/char-rnn/)>
 ```
 
 ✔ No manual dataset download required
